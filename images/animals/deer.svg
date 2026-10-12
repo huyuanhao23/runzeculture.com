@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="t-deer">
+  <title id="t-deer">Daisy the Deer — runzeculture mascot</title>
+  <!-- Soft grass tufts -->
+  <g fill="#2EC4B6">
+    <ellipse cx="40" cy="216" rx="14" ry="4"/>
+    <ellipse cx="200" cy="216" rx="14" ry="4"/>
+  </g>
+  <ellipse cx="120" cy="222" rx="76" ry="9" fill="#0B0B0F" opacity="0.06"/>
+  <!-- Body -->
+  <ellipse cx="120" cy="178" rx="58" ry="44" fill="#C8A97A"/>
+  <!-- White spots -->
+  <g fill="#F4F4F1">
+    <circle cx="98" cy="170" r="4"/>
+    <circle cx="120" cy="180" r="4"/>
+    <circle cx="142" cy="170" r="4"/>
+    <circle cx="110" cy="194" r="3"/>
+    <circle cx="132" cy="194" r="3"/>
+  </g>
+  <!-- Legs -->
+  <rect x="92" y="208" width="10" height="20" rx="4" fill="#C8A97A"/>
+  <rect x="106" y="208" width="10" height="20" rx="4" fill="#C8A97A"/>
+  <rect x="124" y="208" width="10" height="20" rx="4" fill="#C8A97A"/>
+  <rect x="138" y="208" width="10" height="20" rx="4" fill="#C8A97A"/>
+  <!-- Tail -->
+  <circle cx="180" cy="170" r="8" fill="#F4F4F1"/>
+  <!-- Head -->
+  <ellipse cx="120" cy="106" rx="50" ry="54" fill="#C8A97A"/>
+  <!-- Antlers -->
+  <g stroke="#5C4023" stroke-width="4" stroke-linecap="round" fill="none">
+    <path d="M88 70 L78 36 L60 32"/>
+    <path d="M152 70 L162 36 L180 32"/>
+    <path d="M88 70 L92 56 L80 50"/>
+    <path d="M152 70 L148 56 L160 50"/>
+  </g>
+  <!-- Inner ear -->
+  <ellipse cx="76" cy="80" rx="6" ry="12" transform="rotate(-30 76 80)" fill="#FFB1A8"/>
+  <ellipse cx="164" cy="80" rx="6" ry="12" transform="rotate(30 164 80)" fill="#FFB1A8"/>
+  <!-- Snout -->
+  <ellipse cx="120" cy="124" rx="20" ry="14" fill="#F4F4F1"/>
+  <!-- Eyes (big, gentle) -->
+  <ellipse cx="100" cy="104" rx="6" ry="8" fill="#0B0B0F"/>
+  <ellipse cx="140" cy="104" rx="6" ry="8" fill="#0B0B0F"/>
+  <circle cx="102" cy="100" r="2" fill="#F4F4F1"/>
+  <circle cx="142" cy="100" r="2" fill="#F4F4F1"/>
+  <!-- Long lashes -->
+  <g stroke="#0B0B0F" stroke-width="2" stroke-linecap="round">
+    <path d="M96 96 L92 90"/>
+    <path d="M104 94 L102 88"/>
+    <path d="M136 94 L138 88"/>
+    <path d="M144 96 L148 90"/>
+  </g>
+  <!-- Nose -->
+  <ellipse cx="120" cy="122" rx="6" ry="4" fill="#0B0B0F"/>
+  <path d="M120 126 L120 132" stroke="#0B0B0F" stroke-width="1.6"/>
+  <path d="M114 132 Q120 138 126 132" fill="none" stroke="#0B0B0F" stroke-width="2" stroke-linecap="round"/>
+  <!-- Flower on head -->
+  <g transform="translate(150 60)">
+    <circle r="6" fill="#FF6B5B"/>
+    <circle r="2.5" fill="#E9D38A"/>
+  </g>
+</svg>

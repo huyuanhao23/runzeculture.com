@@ -1,0 +1,4 @@
+# Authorized Advertising Sellers — IAB-spec placeholder
+# Replace this file with your real publisher entries before going live.
+# This file is published at https://runzeculture.com/app-ads.txt (root of the apex domain).
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

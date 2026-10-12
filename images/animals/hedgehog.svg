@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="t-hedgehog">
+  <title id="t-hedgehog">Henry the Hedgehog — runzeculture mascot</title>
+  <!-- Leaves on ground -->
+  <g fill="#2EC4B6">
+    <ellipse cx="30" cy="216" rx="12" ry="4" transform="rotate(-20 30 216)"/>
+    <ellipse cx="210" cy="216" rx="12" ry="4" transform="rotate(20 210 216)"/>
+  </g>
+  <ellipse cx="120" cy="222" rx="76" ry="9" fill="#0B0B0F" opacity="0.06"/>
+  <!-- Body (spiky side view) -->
+  <g>
+    <!-- base body -->
+    <ellipse cx="130" cy="170" rx="74" ry="50" fill="#F4F4F1"/>
+    <!-- spikes -->
+    <g fill="#6B5544">
+      <path d="M70 130 L60 110 L70 134 Z"/>
+      <path d="M82 116 L74 92 L88 122 Z"/>
+      <path d="M100 108 L96 84 L108 116 Z"/>
+      <path d="M118 102 L116 76 L126 108 Z"/>
+      <path d="M138 102 L138 76 L146 108 Z"/>
+      <path d="M156 110 L160 84 L168 116 Z"/>
+      <path d="M172 122 L182 96 L184 128 Z"/>
+      <path d="M180 140 L194 122 L188 148 Z"/>
+      <path d="M70 152 L60 138 L74 160 Z"/>
+    </g>
+    <!-- A second layer for depth -->
+    <g fill="#3E2F22" opacity="0.8">
+      <path d="M90 124 L84 102 L96 130 Z"/>
+      <path d="M114 110 L110 86 L122 116 Z"/>
+      <path d="M138 108 L138 84 L148 114 Z"/>
+      <path d="M162 122 L168 100 L174 126 Z"/>
+    </g>
+  </g>
+  <!-- Face (right-front) -->
+  <g>
+    <ellipse cx="180" cy="160" rx="32" ry="28" fill="#E9D38A"/>
+    <!-- Snout -->
+    <ellipse cx="208" cy="170" rx="14" ry="10" fill="#F4F4F1"/>
+    <!-- Eye -->
+    <circle cx="184" cy="150" r="6" fill="#0B0B0F"/>
+    <circle cx="185" cy="148" r="2" fill="#F4F4F1"/>
+    <!-- Cheek -->
+    <circle cx="172" cy="170" r="5" fill="#FFB1A8"/>
+    <!-- Nose -->
+    <ellipse cx="216" cy="170" rx="4" ry="3" fill="#0B0B0F"/>
+    <!-- Mouth -->
+    <path d="M204 178 Q210 184 216 180" fill="none" stroke="#0B0B0F" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- Tiny mushroom friend -->
+  <g transform="translate(54 192)">
+    <ellipse cx="0" cy="0" rx="10" ry="6" fill="#FF6B5B"/>
+    <circle cx="-3" cy="-2" r="1.6" fill="#F4F4F1"/>
+    <circle cx="3" cy="-3" r="1.4" fill="#F4F4F1"/>
+    <rect x="-2" y="0" width="4" height="6" rx="1" fill="#F4F4F1"/>
+  </g>
+</svg>

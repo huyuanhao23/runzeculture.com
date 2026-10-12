@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="t-rabbit">
+  <title id="t-rabbit">Bun the Rabbit — runzeculture mascot</title>
+  <ellipse cx="120" cy="222" rx="74" ry="9" fill="#0B0B0F" opacity="0.06"/>
+  <!-- Body -->
+  <ellipse cx="120" cy="180" rx="56" ry="42" fill="#E0E0E0"/>
+  <!-- Tail (fluffy) -->
+  <circle cx="176" cy="178" r="14" fill="#F4F4F1"/>
+  <!-- Feet -->
+  <ellipse cx="100" cy="218" rx="18" ry="8" fill="#E0E0E0"/>
+  <ellipse cx="140" cy="218" rx="18" ry="8" fill="#E0E0E0"/>
+  <!-- Head -->
+  <circle cx="120" cy="116" r="56" fill="#E0E0E0"/>
+  <!-- Long ears -->
+  <ellipse cx="92" cy="44" rx="14" ry="46" fill="#E0E0E0"/>
+  <ellipse cx="148" cy="44" rx="14" ry="46" fill="#E0E0E0"/>
+  <ellipse cx="92" cy="50" rx="7" ry="34" fill="#FFB1A8"/>
+  <ellipse cx="148" cy="50" rx="7" ry="34" fill="#FFB1A8"/>
+  <!-- Cheeks -->
+  <circle cx="84" cy="132" r="8" fill="#FFB1A8"/>
+  <circle cx="156" cy="132" r="8" fill="#FFB1A8"/>
+  <!-- Eyes -->
+  <ellipse cx="100" cy="116" rx="6" ry="10" fill="#0B0B0F"/>
+  <ellipse cx="140" cy="116" rx="6" ry="10" fill="#0B0B0F"/>
+  <circle cx="102" cy="112" r="2" fill="#F4F4F1"/>
+  <circle cx="142" cy="112" r="2" fill="#F4F4F1"/>
+  <!-- Nose -->
+  <path d="M114 132 Q120 138 126 132 Q120 128 114 132 Z" fill="#FF6B5B"/>
+  <!-- Mouth -->
+  <path d="M116 138 Q120 144 124 138 M120 144 L120 150" fill="none" stroke="#0B0B0F" stroke-width="2" stroke-linecap="round"/>
+  <!-- Bunny teeth -->
+  <rect x="116" y="150" width="4" height="6" rx="1" fill="#F4F4F1"/>
+  <rect x="120" y="150" width="4" height="6" rx="1" fill="#F4F4F1"/>
+  <!-- Whisker -->
+  <g stroke="#0B0B0F" stroke-width="1.6" stroke-linecap="round">
+    <path d="M104 138 Q94 140 86 138"/>
+    <path d="M104 142 Q94 146 86 146"/>
+    <path d="M136 138 Q146 140 154 138"/>
+    <path d="M136 142 Q146 146 154 146"/>
+  </g>
+  <!-- Holding a tiny carrot -->
+  <g transform="translate(72 196)">
+    <path d="M0 0 Q-6 -8 -4 -16 Q4 -8 0 0 Z" fill="#FF6B5B"/>
+    <path d="M-2 -14 L-6 -18 M2 -14 L6 -18 M0 -10 L0 -16" stroke="#2EC4B6" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>

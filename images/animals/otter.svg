@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="t-otter">
+  <title id="t-otter">Olive the Otter — runzeculture mascot</title>
+  <!-- Wave under otter -->
+  <g fill="#2EC4B6" opacity="0.6">
+    <path d="M20 196 Q60 188 100 196 T180 196 T240 196 V220 H20 Z"/>
+  </g>
+  <ellipse cx="120" cy="222" rx="70" ry="8" fill="#0B0B0F" opacity="0.06"/>
+  <!-- Body (sea-otter floating pose) -->
+  <ellipse cx="120" cy="170" rx="62" ry="44" fill="#A66D3B"/>
+  <!-- Belly -->
+  <ellipse cx="120" cy="180" rx="40" ry="26" fill="#E9D38A"/>
+  <!-- Paws -->
+  <circle cx="80" cy="200" r="10" fill="#0B0B0F"/>
+  <circle cx="160" cy="200" r="10" fill="#0B0B0F"/>
+  <!-- Head -->
+  <circle cx="120" cy="106" r="58" fill="#A66D3B"/>
+  <!-- Cheek pad (lighter cream) -->
+  <ellipse cx="120" cy="124" rx="40" ry="28" fill="#E9D38A"/>
+  <!-- Ears -->
+  <circle cx="80" cy="62" r="14" fill="#A66D3B"/>
+  <circle cx="160" cy="62" r="14" fill="#A66D3B"/>
+  <circle cx="80" cy="62" r="8" fill="#FFB1A8"/>
+  <circle cx="160" cy="62" r="8" fill="#FFB1A8"/>
+  <!-- Eyes -->
+  <circle cx="100" cy="104" r="6" fill="#0B0B0F"/>
+  <circle cx="140" cy="104" r="6" fill="#0B0B0F"/>
+  <circle cx="102" cy="102" r="2" fill="#F4F4F1"/>
+  <circle cx="142" cy="102" r="2" fill="#F4F4F1"/>
+  <!-- Nose -->
+  <ellipse cx="120" cy="120" rx="7" ry="5" fill="#0B0B0F"/>
+  <!-- Smile + whiskers -->
+  <path d="M108 128 Q120 140 132 128" fill="none" stroke="#0B0B0F" stroke-width="2.4" stroke-linecap="round"/>
+  <g stroke="#0B0B0F" stroke-width="1.6" stroke-linecap="round">
+    <path d="M100 124 Q90 124 80 122"/>
+    <path d="M100 128 Q90 130 82 130"/>
+    <path d="M140 124 Q150 124 160 122"/>
+    <path d="M140 128 Q150 130 158 130"/>
+  </g>
+</svg>

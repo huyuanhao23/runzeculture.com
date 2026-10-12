@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="t-whale">
+  <title id="t-whale">Whisper the Whale — runzeculture mascot</title>
+  <!-- Ocean -->
+  <rect x="0" y="180" width="240" height="60" fill="#1C69D4"/>
+  <g fill="#155CB8">
+    <path d="M0 188 Q40 184 80 188 T160 188 T240 188 V196 H0 Z"/>
+  </g>
+  <!-- Bubbles -->
+  <g fill="#F4F4F1" opacity="0.7">
+    <circle cx="60" cy="156" r="4"/>
+    <circle cx="44" cy="140" r="3"/>
+    <circle cx="50" cy="118" r="2"/>
+    <circle cx="56" cy="100" r="2.5"/>
+    <circle cx="48" cy="80" r="3"/>
+  </g>
+  <!-- Spout -->
+  <g fill="none" stroke="#F4F4F1" stroke-width="4" stroke-linecap="round">
+    <path d="M132 70 Q138 56 134 40"/>
+    <path d="M146 70 Q150 56 148 40"/>
+    <path d="M160 70 Q164 56 162 40"/>
+  </g>
+  <!-- Body -->
+  <ellipse cx="120" cy="160" rx="92" ry="48" fill="#1C69D4"/>
+  <!-- Belly -->
+  <path d="M40 168 Q60 200 120 200 Q200 200 200 168 Q160 192 80 192 Z" fill="#F4F4F1"/>
+  <!-- Tail -->
+  <path d="M204 150 Q230 130 222 168 Q240 178 222 196 Q236 196 232 178 Q236 198 198 192 Z" fill="#1C69D4"/>
+  <!-- Fin -->
+  <path d="M124 200 Q140 220 156 198 Z" fill="#155CB8"/>
+  <!-- Eye area -->
+  <ellipse cx="86" cy="142" rx="14" ry="10" fill="#F4F4F1"/>
+  <circle cx="86" cy="142" r="6" fill="#0B0B0F"/>
+  <circle cx="88" cy="140" r="2" fill="#F4F4F1"/>
+  <!-- Cheek -->
+  <circle cx="76" cy="160" r="5" fill="#FFB1A8"/>
+  <!-- Smile -->
+  <path d="M92 168 Q104 178 116 170" fill="none" stroke="#0B0B0F" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- Stars/sparkles -->
+  <g fill="#E9D38A">
+    <path d="M50 50 l2 6 6 2 -6 2 -2 6 -2-6 -6-2 6-2z"/>
+    <path d="M210 60 l1.5 4 4 1.5 -4 1.5 -1.5 4 -1.5-4 -4-1.5 4-1.5z"/>
+  </g>
+</svg>

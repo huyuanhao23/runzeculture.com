@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="t-penguin">
+  <title id="t-penguin">Pi the Penguin — runzeculture mascot</title>
+  <!-- Snow -->
+  <ellipse cx="120" cy="222" rx="80" ry="10" fill="#F4F4F1"/>
+  <ellipse cx="120" cy="222" rx="60" ry="6" fill="#0B0B0F" opacity="0.05"/>
+  <!-- Body silhouette -->
+  <path d="M70 200 Q60 100 120 60 Q180 100 170 200 Q170 220 120 220 Q70 220 70 200 Z" fill="#1C1F26"/>
+  <!-- Belly -->
+  <path d="M90 198 Q84 116 120 90 Q156 116 150 198 Q150 210 120 210 Q90 210 90 198 Z" fill="#F4F4F1"/>
+  <!-- Flippers -->
+  <path d="M70 130 Q50 144 60 184 Q72 176 80 162 Q82 142 78 130 Z" fill="#1C1F26"/>
+  <path d="M170 130 Q190 144 180 184 Q168 176 160 162 Q158 142 162 130 Z" fill="#1C1F26"/>
+  <!-- Feet -->
+  <path d="M100 218 Q88 224 86 218 Q92 210 100 214 Z" fill="#FFB1A8"/>
+  <path d="M140 218 Q152 224 154 218 Q148 210 140 214 Z" fill="#FFB1A8"/>
+  <!-- Head silhouette already part of body -->
+  <!-- Eyes -->
+  <circle cx="100" cy="110" r="8" fill="#F4F4F1"/>
+  <circle cx="140" cy="110" r="8" fill="#F4F4F1"/>
+  <circle cx="100" cy="110" r="4" fill="#0B0B0F"/>
+  <circle cx="140" cy="110" r="4" fill="#0B0B0F"/>
+  <circle cx="101" cy="108" r="1.5" fill="#F4F4F1"/>
+  <circle cx="141" cy="108" r="1.5" fill="#F4F4F1"/>
+  <!-- Beak -->
+  <path d="M112 130 Q120 138 128 130 Q128 124 120 122 Q112 124 112 130 Z" fill="#FFB1A8"/>
+  <!-- Cheek blush -->
+  <circle cx="86" cy="128" r="5" fill="#FFB1A8" opacity="0.7"/>
+  <circle cx="154" cy="128" r="5" fill="#FFB1A8" opacity="0.7"/>
+  <!-- Bowtie -->
+  <path d="M104 156 L120 150 L136 156 L120 162 Z" fill="#FF6B5B"/>
+  <circle cx="120" cy="156" r="4" fill="#D4AF37"/>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="t-fox">
+  <title id="t-fox">Fiona the Fox — runzeculture mascot</title>
+  <!-- Soft platform -->
+  <ellipse cx="120" cy="216" rx="78" ry="10" fill="#0B0B0F" opacity="0.06"/>
+  <!-- Body -->
+  <g fill="#FF6B5B">
+    <ellipse cx="120" cy="170" rx="62" ry="50"/>
+  </g>
+  <!-- Tail with white tip -->
+  <g fill="#FF6B5B"><path d="M58 168 Q22 142 30 100 Q42 122 56 130 Q70 138 64 156 Z"/></g>
+  <path d="M28 110 Q24 100 30 96 Q34 100 32 110 Z" fill="#F4F4F1"/>
+  <!-- Head -->
+  <g><circle cx="120" cy="106" r="58" fill="#FF6B5B"/></g>
+  <!-- Ears -->
+  <g fill="#FF6B5B">
+    <path d="M64 64 78 32 96 56 Z"/>
+    <path d="M176 64 162 32 144 56 Z"/>
+  </g>
+  <g fill="#FFB1A8">
+    <path d="M70 60 80 40 92 58 Z"/>
+    <path d="M170 60 160 40 148 58 Z"/>
+  </g>
+  <!-- Face cream mask -->
+  <path d="M88 96 Q120 80 152 96 Q152 138 120 146 Q88 138 88 96 Z" fill="#F4F4F1"/>
+  <!-- Eyes -->
+  <g fill="#0B0B0F">
+    <circle cx="100" cy="108" r="6"/>
+    <circle cx="140" cy="108" r="6"/>
+  </g>
+  <g fill="#F4F4F1">
+    <circle cx="102" cy="106" r="2"/>
+    <circle cx="142" cy="106" r="2"/>
+  </g>
+  <!-- Cheeks -->
+  <circle cx="86" cy="124" r="6" fill="#FFB1A8"/>
+  <circle cx="154" cy="124" r="6" fill="#FFB1A8"/>
+  <!-- Nose + smile -->
+  <path d="M115 124 Q120 132 125 124 Q120 130 115 124 Z" fill="#0B0B0F"/>
+  <path d="M112 130 Q120 138 128 130" fill="none" stroke="#0B0B0F" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

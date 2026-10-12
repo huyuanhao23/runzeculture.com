@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 96" role="img" aria-labelledby="noup-logo-title">
+  <title id="noup-logo-title">NOURISH CULTURE CO., LIMITED — runzeculture.com</title>
+
+  <!-- Symbol mark: stylized "R" inside a soft pill, with a small leaf nod to "Nourish" -->
+  <g id="noup-mark">
+    <rect x="4" y="8" width="80" height="80" rx="20" fill="#0B0B0F"/>
+    <path d="M28 64 L28 32 L52 32 Q64 32 64 44 Q64 54 56 56 L66 64 L56 64 L48 56 L38 56 L38 64 Z M38 40 L38 48 L51 48 Q56 48 56 44 Q56 40 51 40 Z" fill="#F4F4F1"/>
+    <!-- Coral leaf accent above the R -->
+    <path d="M58 24 Q66 22 68 30 Q66 32 58 30 Z" fill="#FF6B5B"/>
+    <!-- Teal dot companion to the leaf -->
+    <circle cx="46" cy="22" r="3" fill="#2EC4B6"/>
+  </g>
+
+  <!-- Wordmark: NOURISH CULTURE -->
+  <g id="noup-word" font-family="Space Grotesk, Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" fill="#0B0B0F">
+    <text x="100" y="48" font-size="28" font-weight="800" letter-spacing="-0.5">NOURISH</text>
+    <text x="100" y="74" font-size="14" font-weight="500" letter-spacing="6" fill="#4A4A52">CULTURE&#160;CO.&#160;LIMITED</text>
+  </g>
+
+  <!-- Hairline divider between mark and wordmark is implicit (whitespace). -->
+</svg>

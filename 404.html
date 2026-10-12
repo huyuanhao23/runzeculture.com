@@ -1,0 +1,50 @@
+﻿﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Page Not Found — Runzeculture</title>
+  <meta name="description" content="The page you’re looking for has wandered off. Here’s a friendly fox to keep you company while we get you back on track." />
+  <meta name="robots" content="noindex, follow" />
+  <meta name="theme-color" content="#0B0B0F" />
+  <link rel="icon" type="image/svg+xml" href="images/logo/favicon.svg" />
+  <link rel="canonical" href="https://runzeculture.com/" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700;800&display=swap" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <style>
+    .err { min-height: 100vh; display: grid; place-items: center; padding: 24px; }
+    .err-card { max-width: 640px; text-align: center; }
+    .err-code { font-family: 'Space Grotesk', system-ui, sans-serif; font-size: clamp(96px, 16vw, 220px); font-weight: 800; line-height: 1; margin: 0; background: linear-gradient(135deg, #1C69D4, #FF6B5B); -webkit-background-clip: text; background-clip: text; color: transparent; }
+    .err-title { font-family: 'Space Grotesk', system-ui, sans-serif; font-size: clamp(28px, 4vw, 44px); margin: 12px 0 16px; }
+    .err-msg { color: var(--text-soft, #6b6f76); margin-bottom: 28px; }
+    .err-cta { display: inline-flex; align-items: center; gap: 10px; padding: 14px 28px; border-radius: 999px; background: #1C69D4; color: #fff; text-decoration: none; font-weight: 600; transition: transform 200ms cubic-bezier(.2,.8,.2,1), box-shadow 200ms; }
+    .err-cta:hover { transform: translateY(-2px); box-shadow: 0 12px 32px rgba(28,105,212,.35); }
+    .err-mascot { width: 200px; height: 200px; margin: 0 auto 20px; animation: float-y 4s ease-in-out infinite; }
+    @media (prefers-reduced-motion: reduce) { .err-mascot { animation: none; } }
+    @keyframes float-y { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+  </style>
+</head>
+<body class="page page-404" data-page="404">
+  
+  <div id="site-header"></div>
+<main class="err" data-page="404">
+    <div class="err-card">
+      <img class="err-mascot" src="images/animals/fox.svg" alt="A friendly kawaii fox mascot waving at you" />
+      <p class="err-code" aria-hidden="true">404</p>
+      <h1 class="err-title">This page wandered off.</h1>
+      <p class="err-msg">The link you followed may be old, or the URL has a typo. Either way, our fox mascot here is ready to point you home.</p>
+      <a class="err-cta" href="./home.html" aria-label="Return to homepage">
+        <span aria-hidden="true">→</span>
+        <span>Back to homepage</span>
+      </a>
+      <p style="margin-top: 24px; color: var(--text-soft, #6b6f76); font-size: 14px;">
+        Need help? Email <a href="mailto:support@runzeculture.com">support@runzeculture.com</a>.
+      </p>
+    </div>
+  </main>
+
+  <div id="site-footer"></div>
+  <script src="js/partials.js" defer></script>
+  <script src="js/animations.js" defer></script>
+</body>
+</html>

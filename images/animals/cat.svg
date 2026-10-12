@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="t-cat">
+  <title id="t-cat">Mocha the Cat — runzeculture mascot</title>
+  <ellipse cx="120" cy="220" rx="72" ry="9" fill="#0B0B0F" opacity="0.06"/>
+  <!-- Body -->
+  <ellipse cx="120" cy="178" rx="58" ry="42" fill="#E9D38A"/>
+  <!-- Tail curling around -->
+  <path d="M178 188 Q210 180 198 148 Q186 152 178 168 Z" fill="#E9D38A"/>
+  <path d="M198 152 Q188 144 184 152 Q190 158 198 156 Z" fill="#D4AF37"/>
+  <!-- Head -->
+  <circle cx="120" cy="104" r="58" fill="#E9D38A"/>
+  <!-- Ears -->
+  <path d="M70 56 L84 30 102 64 Z" fill="#E9D38A"/>
+  <path d="M170 56 L156 30 138 64 Z" fill="#E9D38A"/>
+  <path d="M78 56 L88 40 96 60 Z" fill="#FFB1A8"/>
+  <path d="M162 56 L152 40 144 60 Z" fill="#FFB1A8"/>
+  <!-- Stripes -->
+  <g stroke="#D4AF37" stroke-width="3" stroke-linecap="round">
+    <path d="M86 86 Q102 80 114 88"/>
+    <path d="M126 88 Q138 80 154 86"/>
+  </g>
+  <!-- Eyes (sleepy, golden) -->
+  <ellipse cx="100" cy="108" rx="8" ry="6" fill="#1C69D4"/>
+  <ellipse cx="140" cy="108" rx="8" ry="6" fill="#1C69D4"/>
+  <ellipse cx="100" cy="110" rx="2.5" ry="3.5" fill="#0B0B0F"/>
+  <ellipse cx="140" cy="110" rx="2.5" ry="3.5" fill="#0B0B0F"/>
+  <!-- Cheeks -->
+  <circle cx="84" cy="126" r="6" fill="#FFB1A8"/>
+  <circle cx="156" cy="126" r="6" fill="#FFB1A8"/>
+  <!-- Nose + whiskers -->
+  <path d="M114 126 Q120 132 126 126" fill="#FF6B5B"/>
+  <g stroke="#0B0B0F" stroke-width="1.6" stroke-linecap="round">
+    <path d="M108 130 Q98 132 88 130"/>
+    <path d="M132 130 Q142 132 152 130"/>
+  </g>
+  <!-- Mouth -->
+  <path d="M114 134 Q120 140 126 134" fill="none" stroke="#0B0B0F" stroke-width="2" stroke-linecap="round"/>
+</svg>
